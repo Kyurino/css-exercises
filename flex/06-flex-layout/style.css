@@ -10,7 +10,7 @@ body {
 }
 
 .content {
-  flex:1;
+  flex: 1;
   display: flex;
   flex-flow: column;
   align-items: center;
@@ -18,37 +18,37 @@ body {
 }
 
 .header,
-.footer{
-  display:flex;
+.footer {
+  display: flex;
   justify-content: space-between;
-  padding:16px;
+  padding: 16px;
 }
 
-.footer{
+.footer {
   background-color: #eee;
 }
 
 .right-links,
 .left-links {
-  display:flex;
+  display: flex;
 }
 
 img {
   width: 600px;
 }
 
-li{
+li {
   list-style-type: none;
 }
 
-ul{
-  margin:0;
-  padding:0;
-  gap:16px;
+ul {
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
 
-a{
-  color:rgb(103, 98, 98);
+a {
+  color: rgb(103, 98, 98);
   text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
-  padding:10px;
+  padding: 10px;
 }
 
 input {
